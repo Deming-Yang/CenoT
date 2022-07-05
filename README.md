@@ -1,2 +1,2 @@
-# CenoCO2
-Code and data for Cenozoic pCO2 curve fit
+# CenoT
+Code and data for Cenozoic deep sea temperature inversion analysis
